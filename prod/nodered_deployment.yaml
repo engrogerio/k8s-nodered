@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   annotations:
     deployment.kubernetes.io/revision: "1"
-  generation: 3
+  generation: 1
   labels:
     app: nodered
   name: nodered
